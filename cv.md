@@ -13,3 +13,14 @@ I've been interesting in programming from high school. The first courses at the 
 * LAMP;
 * Silex microframework and Yii2 framework for PHP;
 * Photoshop, Figma
+
+### **Education**
+Bachelor’s degree in Applied Computer Science (2014).
+[Higher Institute of Information Technology and Intelligent Systems,](https://kpfu.ru/eng/itis) Kazan Federal University, Russia
+
+### **Courses**
+[Rolling Scopes School 2019-Q3](https://rs.school)
+[HTML&CSS lessons on Codecademy](https://www.codecademy.com/users/daryenn/achievements)
+
+### **English**
+B1 - Intermediate.

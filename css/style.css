@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box; 
+  }
+    
+  body {   
+    width: 1024px; 
+    margin: 0 auto;
+  }
+   
+  header, article, aside {
+    padding: 1em;
+  }
+  
+  header {
+    display: flex;
+    flex-direction: column; 
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  header h1 {
+    font-size: 50px;
+    text-align: left;
+    margin-bottom: 0;
+  }
+  
+  header h3 {
+    margin-top: 0;
+  }
+  
+  .profile_photo {
+    border-radius: 50%;
+    width: 250px;
+  }
+  
+  .sidebar {
+    max-width: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 1.2em;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+  ul{
+    padding-left: 0;
+  }
+  
+  a{
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  .hr {
+    height: 1px;
+    width: 50%;
+    background: #008000;
+  }
+  
+  .follow{
+    margin-bottom: 0;
+    padding-bottom: 0; 
+  }
+  
+  .paragraph h2{
+    text-align: left;
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: row;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    background-image: url("../img/background.jpg");
+  }
+  
+  .status {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .main_content {
+    display: flex;
+    flex-direction: column;
+    flex: 5;  
+  }
+  
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
